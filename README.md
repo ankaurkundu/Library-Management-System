@@ -18,9 +18,13 @@ Features:-
 
 
 Technologies Used:-
+
 -Java Swing for GUI
+
 -MySQL database
+
 -JDBC for database connectivity
+
 -SQL queries 
 
 Setup Instructions:-
