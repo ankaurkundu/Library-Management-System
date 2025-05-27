@@ -1,4 +1,4 @@
-A desktop-based **Library Management System** built using **Java Swing** for the user interface and **MySQL** as the backend database. The system allows managing books, students, and book issue/return transactions with a user-friendly GUI.
+A **Library Management System** built using **Java Swing** for the user interface and **MySQL** as the backend database. The system allows managing books, students, and book issue/return transactions with a user-friendly GUI.
 
 ---
 
