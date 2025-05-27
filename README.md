@@ -20,6 +20,6 @@ A **Library Management System** built using **Java Swing** for the user interfac
 | GUI Framework      | Java Swing (with custom components)  |
 | Database           | MySQL                               |
 | Database Connectivity | JDBC                             |
-| Query Language     | SQL (MySQL dialect)                  |
+| Query Language     | SQL                   |
 
 ---
