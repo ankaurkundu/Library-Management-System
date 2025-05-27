@@ -23,27 +23,12 @@ A **Library Management System** built using **Java Swing** for the user interfac
 | Query Language     | SQL                   |
 
 ---
-Setup Instructions
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/LibraryManagementSystem.git
-Set up MySQL database
+---
 
-Create a database named library_ms.
+## ⚙️ Setup Instructions
 
-Create necessary tables (users, books, students, issue_book_details, etc.) according to your schema.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/LibraryManagementSystem.git
 
-Configure database credentials
-
-Update the MySQL username and password in the Java files if different from the default (root / no password).
-
-Open the project in an IDE
-
-Use NetBeans, IntelliJ IDEA, or Eclipse.
-
-Run the application
-
-Start by running LoginPage.java.
