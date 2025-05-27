@@ -1,36 +1,25 @@
-# Library-Management-System
+A desktop-based **Library Management System** built using **Java Swing** for the user interface and **MySQL** as the backend database. The system allows managing books, students, and book issue/return transactions with a user-friendly GUI.
 
-This is a desktop-based Library Management System built using Java Swing for the user interface and MySQL as the backend database. It allows managing books, students, and book issue/return transactions.
+---
 
-**Features**
+## 🚩 Features
 
--User login and signup
+- **User Authentication:** Login and Signup functionality.
+- **Manage Books:** Add, update, delete, and view books.
+- **Manage Students:** Add, update, delete, and view student information.
+- **Issue Books:** Issue books to students and track due dates.
+- **Return Books:** Record book returns and calculate defaulters.
+- **View Records:** View all issue/return records and defaulter lists.
 
--Manage books (add, update, delete, view)
+---
 
--Manage students (add, update, delete, view)
+## 🛠 Technology Stack
 
--Issue books to students
+| Component          | Technology / Library                  |
+|--------------------|-------------------------------------|
+| GUI Framework      | Java Swing (with custom components)  |
+| Database           | MySQL                               |
+| Database Connectivity | JDBC                             |
+| Query Language     | SQL (MySQL dialect)                  |
 
--Return books and track defaulters
-
--View all records related to issues and returns
-
-
-**Technologies Used**
-
--Java Swing for GUI
-
--MySQL database
-
--JDBC for database connectivity
-
--SQL queries 
-
-Setup Instructions:-
--Clone the repository
-git clone https://github.com/ankaurkundu/LibraryManagementSystem.git
--Create a MySQL database named library_ms and create the necessary tables (users, books, students, issue_book_details, etc.)
--Update the database credentials in the Java files if needed (default is user: root, password: empty)
--Open the project in an IDE like NetBeans, IntelliJ IDEA, or Eclipse
--Run the application by starting LoginPage.java
+---
