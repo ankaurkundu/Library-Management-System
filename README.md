@@ -30,7 +30,7 @@ A **Library Management System** built using **Java Swing** for the user interfac
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/LibraryManagementSystem.git
+   git clone https://github.com/ankaurkundu/LibraryManagementSystem.git
    Set up MySQL database:
 
 
