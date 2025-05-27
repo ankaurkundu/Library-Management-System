@@ -4,6 +4,7 @@ This is a desktop-based Library Management System built using Java Swing for the
 
 Features:-
 -User login and signup
+
 -Manage books (add, update, delete, view)
 -Manage students (add, update, delete, view)
 -Issue books to students
