@@ -30,7 +30,7 @@ A **Library Management System** built using **Java Swing** for the user interfac
 
 1. **Clone the repository:**
 
- git clone https://github.com/ankaurkundu/LibraryManagementSystem.git
+ [git clone https://github.com/ankaurkundu/LibraryManagementSystem.git](https://github.com/ankaurkundu/Library-Management-System.git)
 
 2. Create a MySQL database named library_ms to store all library-related records.
 
